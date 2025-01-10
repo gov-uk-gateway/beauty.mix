@@ -1,1 +1,1 @@
-# beauty.mix
+# beauty-mix
